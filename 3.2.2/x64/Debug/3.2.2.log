@@ -1,0 +1,5 @@
+﻿  3.2.2.cpp
+D:\VSproj\3.2.2\3.2.2.cpp(17,10): warning C4305: инициализация: усечение из "double" в "float"
+D:\VSproj\3.2.2\3.2.2.cpp(22,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\VSproj\3.2.2\3.2.2.cpp(27,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  3.2.2.vcxproj -> D:\VSproj\3.2.2\x64\Debug\3.2.2.exe
